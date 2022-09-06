@@ -84,7 +84,9 @@ svg:hover {
 .zoroFeatures:hover .zoroFeaturesColor {
     fill: white;
 }
-
+label:hover {
+  text-decoration: underline;
+}
 
 
 

@@ -162,44 +162,21 @@ svg:hover {
   /*Open tab*/
   
   #type1:checked ~ #links1 li{
-    height: 250px;
+    height: 80px;
     opacity: 1;
     padding-top: 15px;
   }
   #type3:checked ~ #links3 li{
-    height: 105px;
+    height: 80px;
     opacity: 1;
     padding-top: 15px;
   }
   #type2:checked ~ #links2 li {
-    height: 180px;
-    opacity: 1;
-    padding-top: 15px;
-  }
-  #type4:checked ~ #links4 li{
-    height: 110px;
-    opacity: 1;
-    padding-top: 15px;
-  }
-  #type5:checked ~ #links5 li{
-    height: 110px;
-    opacity: 1;
-    padding-top: 15px;
-  }
-  #type6:checked ~ #links6 li{
-    height: 40px;
-    opacity: 1;
-    padding-top: 15px;
-  }
-  #type7:checked ~ #links7 li{
-    height: 50px;
-    opacity: 1;
-    padding-top: 10px;
-  }
-  #type8:checked ~ #links8 li{
-    height: 100px;
+    height: 80px;
     opacity: 1;
     padding-top: 15px;
   }
   
-  
+  label:hover {
+    text-decoration: underline;
+  }

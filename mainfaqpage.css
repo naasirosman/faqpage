@@ -193,4 +193,7 @@ svg:hover {
     padding-top: 15px;
   }
   
+  label:hover {
+    text-decoration: underline;
+  }
   
