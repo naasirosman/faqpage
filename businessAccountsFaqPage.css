@@ -57,11 +57,14 @@ svg {
 svg:hover {
     background-color: #417A8C;
 }
-.currentOrdersSVG {
+.businessAccountsSVG {
     background-color: #417A8C;
 }
-.currentOrdersColor {
+.businessAccountsColor {
     fill: white;
+}
+.currentOrdersColor {
+    fill: #417A8C;
 }
 .accountDetailsColor {
     fill: #417A8C;
@@ -69,10 +72,10 @@ svg:hover {
 .accountDetailsSVG:hover .accountDetailsColor {
     fill: white;
 }
-.ordersReturnSVG:hover .ordersReturnColor {
+.currentOrdersSVG:hover .currentOrdersColor {
     fill: white;
 }
-.businessAccountsSVG:hover .businessAccountsColor {
+.ordersReturnSVG:hover .ordersReturnColor {
     fill: white;
 }
 .paymentSVG:hover .paymentColor {
